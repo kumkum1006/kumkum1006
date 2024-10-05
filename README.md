@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Kumkum Sareen, a passionate software developer with a focus on building solutions that blend creativity with technology. <br>I love working with a variety of tech stacks, including Python, Django, MERN, and React Native, while constantly exploring new tools and frameworks. My projects range from AI-based apps to data-driven dashboards, all aimed at solving real-world problems. Check out my repositories to see what I’ve been working on!
+👋 Hi there! I'm Kumkum Sareen, a passionate software developer with a focus on building solutions that blend creativity with technology. I love working with a variety of tech stacks, including Python, Django, MERN, and React Native, while constantly exploring new tools and frameworks. My projects range from AI-based apps to data-driven dashboards, all aimed at solving real-world problems. Check out my repositories to see what I’ve been working on!
 
 
 ## 🌐 Socials:
